@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spark-example-project.iml" filepath="$PROJECT_DIR$/.idea/modules/spark-example-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spark-example-project-build.iml" filepath="$PROJECT_DIR$/.idea/modules/spark-example-project-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spark-kafka-consumer.iml" filepath="$PROJECT_DIR$/.idea/modules/spark-kafka-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spark-kafka-consumer-build.iml" filepath="$PROJECT_DIR$/.idea/modules/spark-kafka-consumer-build.iml" />
+    </modules>
+  </component>
+</project>
