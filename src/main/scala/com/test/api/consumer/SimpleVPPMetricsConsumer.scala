@@ -3,7 +3,7 @@ package com.test.api.consumer
 //remove if not needed
 import scala.collection.JavaConversions._
 
-object SimpleVPPMetricsConsumer extends App {
+object SimpleConsumer extends App {
 
   override def main(args: Array[String]) {
     val consumer = new SimpleExample()
